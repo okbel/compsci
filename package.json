@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "name": "sci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Belen Curcio",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest . --watch"
+  }
+}
